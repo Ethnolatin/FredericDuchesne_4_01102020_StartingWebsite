@@ -6,4 +6,6 @@
 2. Amélioration du SEO du site.
 3. Comparaison des résultats.
 
+Rendu web du site initial : https://ethnolatin.github.io/FredericDuchesne_4_01102020_StartingWebsite/
+
 ==> repository du site optimisé : https://github.com/Ethnolatin/FredericDuchesne_4_01102020_OptimizedWebsite
